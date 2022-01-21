@@ -1,0 +1,21 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso preofesional de JavaScript de la Escuala Profesional de JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "media player",
+    "platzi"
+  ],
+  "author": "Felix Garcia <felixxrafaell@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
